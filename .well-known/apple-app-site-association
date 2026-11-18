@@ -1,0 +1,18 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "QNW8779W53.cn.ehanghai.hex",
+          "QNW8779W53.com.nauticalonline.ehh"
+        ],
+        "components": [
+          {
+            "/": "*",
+            "comment": "全路径匹配：微信 SDK 的 Universal Link 走根路径，勿收窄为 /nfc/*"
+          }
+        ]
+      }
+    ]
+  }
+}
